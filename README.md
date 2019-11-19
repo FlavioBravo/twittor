@@ -1,3 +1,3 @@
-# Chat de Héroes
+# PWA similar to Twitter
 
-Un cascarón de chat usando jQuery para PWAs# twittor
+App Example related to PWA with some twitter features.
